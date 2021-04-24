@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">全面拦截(拼多多专版)</string>
+    <string name="blockr_success_hint">本次已成功拦截！\n请按下Home键回到主屏幕，或者打开多任务来看看是哪个app发起的。</string>
+    <string name="app_home_hint">已准备好拦截拼多多！\n此app无需放在前台与后台，只要完成安装就好。</string>
+    <string name="blockr_title">已成功拦截！</string>
+    <string name="versionhint">测试版-仅供社区测试</string>
+</resources>

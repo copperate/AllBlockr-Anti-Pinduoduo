@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AllBlockr-Anti-Pinduoduo</string>
+    <string name="blockr_success_hint">
+        Successful Blocked This time! \n
+        Please press \"Home\" key to return to launcher or open TaskSwicher to see what app opens it.
+    </string>
+    <string name="app_home_hint">
+        Ready to block pinduoduo! \n
+        No need to keep this app in background or foreground, just keep being installed.
+    </string>
+    <string name="blockr_title">Successful Blocked!</string>
+    <string name="helpsupport" translatable="false">Need help? Mail to tk.dropr@outlook.com</string>
+    <string name="versionhint">Beta Version for Commnuity Test only</string>
+</resources>
